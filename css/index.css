@@ -1,0 +1,16 @@
+
+body {
+	background-color: #816759;
+}
+
+.
+
+.tower {
+	background-color: #816a58;
+	position: absolute;
+	height: 70%;
+	width: 33%;
+	left: 50%;
+	top: 30%;
+	transform: translate(-50%, 0%);
+}
